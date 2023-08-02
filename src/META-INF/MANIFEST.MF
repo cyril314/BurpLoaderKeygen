@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Can-Retransform-Classes: true
+Main-Class: com.fit.burpLoad.Main
+Agent-Class: com.fit.burpLoad.Agent
+Premain-Class: com.fit.burpLoad.Agent
